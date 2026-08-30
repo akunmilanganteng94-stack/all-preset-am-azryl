@@ -1,0 +1,6 @@
+{
+  "name": "ALL PRESET AM AZRYL",
+  "description": "Kumpulan Preset Alight Motion Premium milik Azryl - Platform preset modern, futuristik, dan realtime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
